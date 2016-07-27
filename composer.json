@@ -29,7 +29,7 @@
         "league/commonmark": "0.11"
     },
     "autoload":{
-        "files": ["tests/Helper.php"],
+        "files": ["App/Helper.php"],
         "psr-4":{
             "App\\": "App"
         }

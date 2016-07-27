@@ -12,6 +12,28 @@ ini_set('error_reporting', $error_reporting);
 //时区
 ini_set('date.timezone','Asia/Shanghai');
 
+
+
+echo '<hr>';
+echo '<hr>';
+echo '<hr>';
+echo '<hr>';
+echo '<hr>';
+echo '<hr>';
+echo '<hr>';
+echo '<hr>';
+echo '<hr>';
+echo '<hr>';
+
+D(
+    [
+        'leagueContainer'=>"<a href='leagueContainer.php' target=\"_blank\">leagueContainer.php</a>"
+    ]
+);
+
+
+
+
 D(1);
 
 
